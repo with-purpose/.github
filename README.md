@@ -11,11 +11,11 @@ To run a successful Foundation which is able to make meaningful donations to imp
 
 ## 💗 Supported Charities 💗
 
-| Year | Charity            |
-| ---- | ------------------ |
-| 2025 | Breast Cancer NZ   |
-| 2026 | Cervical Cancer NZ |
-| 2027 | To be selected     |
+| Year | Charity                             | Link                                                                      |
+| ---- | ----------------------------------- | ------------------------------------------------------------------------- |
+| 2025 | Breast Cancer Foundation NZ         | [Breast Cancer Foundation NZ](https://www.breastcancerfoundation.org.nz/) |
+| 2026 | Talk Peach Gynaecological Awareness | [Talk Peach Gynaecological Awareness](https://www.talkpeach.org.nz/)      |
+| 2027 | To be selected                      | [tba](#)                                                                  |
 
 ---
 
